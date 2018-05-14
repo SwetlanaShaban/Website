@@ -1,5 +1,5 @@
 {
-	"Oven": {
+	"Aries": {
 		"Date1": "21.03",
 		"Date2": "20.04",
 		"Planet": "Mars",
@@ -9,7 +9,7 @@
 		"Success": "5, 17, 18, 19, 24, 25",
 		"Unsuccess": "7, 8, 9, 12, 16, 27"
 	},
-	"Telets": {
+	"Taurus": {
 		"Date1": "21.04",
 		"Date2": "20.05",
 		"Planet": "Venus",
@@ -19,7 +19,7 @@
 		"Success": "4, 6, 18, 19, 20, 25",
 		"Unsuccess": "8, 9, 12, 16, 26, 27"
 	},
-	"Twins": {
+	"Gemini": {
 		"Date1": "21.05",
 		"Date2": "21.06",
 		"Planet": "Mercury",
@@ -39,7 +39,7 @@
 		"Success": "5, 6, 11, 18, 19, 31",
 		"Unsuccess": "7, 8, 12, 14, 16, 26"
 	},
-	"Lion": {
+	"Leo": {
 		"Date1": "23.07",
 		"Date2": "23.08",
 		"Planet": "Sun",
@@ -49,7 +49,7 @@
 		"Success": "5, 6, 11, 12, 23, 24",
 		"Unsuccess": "8, 9, 14, 16, 26, 27"
 	},
-	"Deva": {
+	"Virgo": {
 		"Date1": "24.08",
 		"Date2": "23.09",
 		"Planet": "Mercury",
@@ -59,7 +59,7 @@
 		"Success": "5, 17, 18, 19, 24, 25",
 		"Unsuccess": "7, 12, 13, 14, 23, 26"
 	},
-	"Vesi": {
+	"Libra": {
 		"Date1": "24.09",
 		"Date2" : "23.10",
 		"Planet": "Venus",
@@ -69,7 +69,7 @@
 		"Success": "4, 6, 18, 19, 20, 25",
 		"Unsuccess": "8, 9, 12, 16, 26, 27"
 	},
-	"Scorpion": {
+	"Scorpio": {
 		"Date1": "24.10",
 		"Date2": "22.11",
 		"Planet": "Mars",
@@ -80,7 +80,7 @@
 		"Success": "5, 17, 18, 19, 24, 25",
 		"Unsuccess": "7, 8, 9, 12, 16, 27"
 	},
-	"Strelets": {
+	"Sagittarius": {
 		"Date1": "23.11",
 		"Date2": "21.12",
 		"Planet": "Jupyter",
@@ -90,7 +90,7 @@
 		"Success": "1, 2, 11, 23, 24, 25",
 		"Unsuccess": ": 7, 8, 9, 13, 23, 26"
 	},
-	"Kozerog": {
+	"Capricorn": {
 		"Date1": "22.12",
 		"Date2": "20.01",
 		"Planet": "Saturn",
@@ -100,7 +100,7 @@
 		"Success": "1, 2, 3, 17, 18, 19",
 		"Unsuccess": "6, 12, 13, 14, 26, 27"
 	},
-	"Vodoley": {
+	"Aquarius": {
 		"Date1": "21.01",
 		"Date2": "20.02",
 		"Planet": "Saturn",
@@ -110,7 +110,7 @@
 		"Success": "1, 2, 3, 17, 18, 19",
 		"Unsuccess": "6, 12, 13, 14, 26, 27"
 	},
-	"Fish": {
+	"Pisces": {
 		"Date1": "19.02",
 		"Date2":"20.03",
 		"Planet": "Jupyter",
