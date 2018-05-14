@@ -22,7 +22,8 @@ $(document).ready(function () {
 
         var panel = $('<div/>', { class: "panel panel-primary" }).appendTo($('#horContent'));
         $('<p/>', { class: "font-weight-normal" }).html(title).appendTo(panel);
-        $('<p/>', { class: "font-weight-normal" }).html('Dates : ' + descriptionObject['Dates']).appendTo(panel);
+        $('<p/>', { class: "font-weight-normal" }).html('Dates : ' + descriptionObject['Date1'] + " - "
+            + descriptionObject['Date2']).appendTo(panel);
         $('<p/>', { class: "font-weight-normal" }).html('Planet : ' + descriptionObject['Planet']).appendTo(panel);
         $('<p/>', { class: "font-weight-normal" }).html('Element : ' + descriptionObject['Element']).appendTo(panel);
         $('<p/>', { class: "font-weight-normal" }).html('Good days: ' + descriptionObject['Success']).appendTo(panel);
