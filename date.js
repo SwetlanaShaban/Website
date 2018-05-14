@@ -16,8 +16,17 @@ $(document).ready(function () {
     $('#submit').on('click', function () {
         var date = new Date($('#bday').val());
         day = date.getDate();
+        if (day < 10)
+            day = "0" + day;
+
         month = date.getMonth() + 1;
-        alert([day, month].join('.'));
+        if (month < 10)
+            month = "0" + month;
+
+        year = date.getFullYear();
+
+        var inpDate = new Date(year, month - 1, day);
+        alert(inpDate.toString("DD.MM.YYYY"));
     });
 
     var getSignDescription = function (name) {
