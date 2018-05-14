@@ -1,0 +1,13 @@
+ #content {
+    width: 500px;
+    margin: 0 auto 50px; 
+}
+
+#footer {
+    position: fixed;
+    left: 0; bottom: 0;
+    padding: 10px;
+    background: #fab297;
+    color: #66023c;
+    width: 100%;
+}
