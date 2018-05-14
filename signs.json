@@ -1,15 +1,17 @@
 {
 	"Oven": {
-		"Dates": "21 марта - 20 апрел€",
-		"Planet": "ћарс",
-		"Element": "ќгонь",
+		"Date1": "21.03",
+		"Date2": "20.04",
+		"Planet": "Mars",
+		"Element": "Fire",
 		"Characteristics": " These people are cheerful, provocative, sometimes irritable and extremely stubborn. If they are planning something to do and their plans are destroyed, then their anger will be felt by anyone who starts to soothe them or blame it. Therefore, the desire to do as they wish, they can sometimes turn into despotism. Aries are dodgy and intelligent, which is why they devote most of their time to the cause of their whole life.",
 		"Prediction": "In the beginning and middle of May Aries can face serious opposition to their initiatives. Despite your desire to realize your plans, you can fail. The fact that you can resist influential people, endowed with power with which you will not be easy to compete. This is especially true for career and professional activities. Another problem of these days may be associated with unnecessarily high financial costs. Perhaps, the circumstances will develop in such a way that you will be forced to pay bills urgently. As a result, the financial balance of your budget may be violated. At the end of May, in the 20th days, there will be favorable days for spiritual practices. It is good to attend closed groups of seminars, where classes are held on developing extrasensory abilities and studying the hidden potentialities of the psyche. Successfully undergo meditation sessions.",
 		"Success": "5, 17, 18, 19, 24, 25",
 		"Unsuccess": "7, 8, 9, 12, 16, 27"
 	},
 	"Telets": {
-		"Dates": "21 april - 20 may",
+		"Date1": "21.04",
+		"Date2": "20.05",
 		"Planet": "Venus",
 		"Element": "Soil",
 		"’арактеристика": "The most industrious and patient sign, goes slowly, but it is true, knowing that only in this way something can be achieved. Proceeding from their stubbornness, one can confidently say that they do not listen to advice, and if they listen, they make up their own plan in their heads. Taurus madly jealous, sometimes their jealousy can reach the extreme point, it only inflates the flame of love in the soul of the conservative Taurus.",
@@ -18,7 +20,8 @@
 		"Unsuccess": "8, 9, 12, 16, 26, 27"
 	},
 	"Twins": {
-		"Dates": "21 may Ц 21 june",
+		"Date1": "21.05",
+		"Date2": "21.06",
 		"Planet": "Mercury",
 		"Element": "Air",
 		"Characteristics": "The most inconsistent sign of the Zodiac, but their mind is quirky, so the Twins are smart and talented. They are flirtatious, flirting for them, like a sip of water in the heat, but the home, deceased life, alas, does not suit all Gemini. These natures do not accept conservatism and want diversity.",
@@ -27,7 +30,8 @@
 		"Unsuccess": "7, 12, 13, 14, 23, 26"
 	},
 	"Cancer": {
-		"Dates": "22 june Ц 22 july",
+		"Date1": "22.06",
+		"Date2":"22.07",
 		"Planet": "Moon",
 		"Element": "Water",
 		"Characteristics": "The most devoted sign, the family for them is the most precious thing they have in life. They are very touchy, although they can not show this, so as not to offend the partner, this generates their ability to rash generosity. They have developed intuition, which can greatly frighten them.",
@@ -36,7 +40,8 @@
 		"Unsuccess": "7, 8, 12, 14, 16, 26"
 	},
 	"Lion": {
-		"Dates": "23 july Ц 23 august",
+		"Date1": "23.07",
+		"Date2": "23.08",
 		"Planet": "Sun",
 		"Element": "Fire",
 		"Characteristics": "They have great leadership abilities, which is why in their sweet head, perhaps, a plan is being created to seize the world, and others do not know about it. Lions will be unhappy if they know that they are not loved and respected, but these people never take offense for a long time. This is the noblest sign, therefore their motivations are always only for the sake of good purposes.",
@@ -45,7 +50,8 @@
 		"Unsuccess": "8, 9, 14, 16, 26, 27"
 	},
 	"Deva": {
-		"Dates": "24 august Ц 23 september",
+		"Date1": "24.08",
+		"Date2": "23.09",
 		"Planet": "Mercury",
 		"Element": "Soil",
 		"Characteristics": "They think that if you do something, it's better not to do it at all. They have an analytical mindset, which is why when they hear from a friend that they have a problem, they will make up a whole chain of things coming out of this situation. Virgo aspire to the ideal, for this reason a couple choose only that one.",
@@ -54,7 +60,8 @@
 		"Unsuccess": "7, 12, 13, 14, 23, 26"
 	},
 	"Vesi": {
-		"Dates": "24 september Ц 23 october",
+		"Date1": "24.09",
+		"Date2" : "23.10",
 		"Planet": "Venus",
 		"Element": "Air",
 		"Characteristics": "These people are close to art and can see beauty, this skill and controls the life of Libra. People love them, and all because they can arrange for themselves, with each acting the way the latter wants. A large proportion of Libra have a business vein",
@@ -63,7 +70,8 @@
 		"Unsuccess": "8, 9, 12, 16, 26, 27"
 	},
 	"Scorpion": {
-		"Dates": "24 october Ц 22 november",
+		"Date1": "24.10",
+		"Date2": "22.11",
 		"Planet": "Mars",
 		"Element": "Water",
 		"Characteristics": "Cruel and hot nature, so they are called the strongest signs. The desire for success is laid in their blood, but they achieve it in some mysterious ways, so the surrounding people do not quite understand how he did it. Scorpions were born to be a  big bump",
@@ -73,7 +81,8 @@
 		"Unsuccess": "7, 8, 9, 12, 16, 27"
 	},
 	"Strelets": {
-		"Dates": "23 noverber Ц 21 december",
+		"Date1": "23.11",
+		"Date2": "21.12",
 		"Planet": "Jupyter",
 		"Element": "Fire",
 		"Characteristics": "Their directness sometimes becomes too harsh, but people like it for it. They hate being in four walls, so they go to distant countries or to the world of books.",
@@ -82,7 +91,8 @@
 		"Unsuccess": ": 7, 8, 9, 13, 23, 26"
 	},
 	"Kozerog": {
-		"Dates": "22 december Ц 20 january",
+		"Date1": "22.12",
+		"Date2": "20.01",
 		"Planet": "Saturn",
 		"Element": "Soil",
 		"Characteristics": "People convict him of being dry, but he just can not express his deep feelings, so he does it through actions. The work is extremely concentrated, and therefore successful. The simplest sign of the Zodiac, requiring understanding and support.",
@@ -91,7 +101,8 @@
 		"Unsuccess": "6, 12, 13, 14, 26, 27"
 	},
 	"Vodoley": {
-		"Dates": "21 january Ц 20 february",
+		"Date1": "21.01",
+		"Date2": "20.02",
 		"Planet": "Saturn",
 		"Element": "Air",
 		"Characteristics": "They are brilliant. They know how to make it so that everyone likes, sometimes in harm to themselves, but their incompetence among people is embodied in science and creativity.",
@@ -100,7 +111,8 @@
 		"Unsuccess": "6, 12, 13, 14, 26, 27"
 	},
 	"Fish": {
-		"Dates": "19 fubruary - 20 march",
+		"Date1": "19.02",
+		"Date2":"20.03",
 		"Planet": "Jupyter",
 		"Element": "Water",
 		"Characteristics": "Other people may seem duplicitous, but these are the costs of their duality: they can be great figures and dreamy romantics. All their lives are in search of beauty and harmony, but they are not always found, because they do not know what they need. They do not like changes, the old and proven for them more closely.",

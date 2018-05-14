@@ -20,13 +20,13 @@ $(document).ready(function () {
         var title = $(e.target).attr('title');
         var descriptionObject = getSignDescription(title);
 
-        var panel = $('<div/>', { class: "panel panel-default" }).appendTo($('#horContent'));
-        $('<p/>', {}).html(title).appendTo(panel);
-        $('<p/>').html(descriptionObject['Dates']).appendTo(panel);
-        $('<p/>').html(descriptionObject['Planet']).appendTo(panel);
-        $('<p/>').html(descriptionObject['Element']).appendTo(panel);
-        $('<p/>').html(descriptionObject['Success']).appendTo(panel);
-        $('<p/>').html(descriptionObject['Unsuccess']).appendTo(panel);
+        var panel = $('<div/>', { class: "panel panel-primary" }).appendTo($('#horContent'));
+        $('<p/>', { class: "font-weight-normal" }).html(title).appendTo(panel);
+        $('<p/>', { class: "font-weight-normal" }).html('Dates : ' + descriptionObject['Dates']).appendTo(panel);
+        $('<p/>', { class: "font-weight-normal" }).html('Planet : ' + descriptionObject['Planet']).appendTo(panel);
+        $('<p/>', { class: "font-weight-normal" }).html('Element : ' + descriptionObject['Element']).appendTo(panel);
+        $('<p/>', { class: "font-weight-normal" }).html('Good days: ' + descriptionObject['Success']).appendTo(panel);
+        $('<p/>', { class: "font-weight-normal" }).html('Bad days: ' + descriptionObject['Unsuccess']).appendTo(panel);
 
         var additionalInfoPanel = $('<div/>', { class: "panel panel-default" });
         additionalInfoPanel.html("Additional info. Click to expand");
@@ -34,11 +34,11 @@ $(document).ready(function () {
 
         additionalInfoPanel.append(expandButton);
         panel.append(additionalInfoPanel);
-        
-        expandButton.click(function() {
+
+        expandButton.click(function () {
             additionalInfoPanel.html(descriptionObject['Prediction'] + descriptionObject['Characteristics']);
         });
-        
+
         $('#horContent').show();
     });
 
