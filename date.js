@@ -69,7 +69,6 @@ $(document).ready(function () {
         }
     }
 
-
     var getSignDescription = function (name) {
         return json[name];
     }
