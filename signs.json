@@ -1,94 +1,123 @@
 {
-	"Овен":{"Даты":"21 марта - 20 апреля", 
-		"Планета":"Марс", 
-		"Стихия":"Огонь", 								"Характеристика": " Эти люди жизнелюбивы, задорны, порой раздражительны и крайне упрямы. Если они что-то задумали сделать и их планы разрушены, то их гнев почувствует на себе каждый, кто начнет их успокаивать или винить в этом. Поэтому желание сделать так, как хотят они порой может превратиться в деспотизм. Овны изворотливы и умны, именно поэтому делу всей жизни они уделяют большую часть своего времени.",
-		"Предсказание на май":"В начале и середине мая Овны могут столкнуться с серьезным противодействием своим инициативам. Несмотря на ваше стремление реализовать свои планы, вы можете потерпеть фиаско. Дело в том, что вам могут противостоять влиятельные люди, наделенные властными полномочиями с которыми вам будет нелегко тягаться. Особенно это относится к вопросам карьеры и профессиональной деятельности. Другая проблемная тема этих дней может быть связана с излишне высокими финансовыми расходами. Возможно, обстоятельства сложатся таким образом, что вы будете вынуждены срочно оплачивать счета. В результате финансовый баланс вашего бюджета может оказаться нарушен. В конце мая, в 20-х числах, наступят благоприятные дни для духовных практик. Хорошо посещать закрытые группы семинаров, на которых идут занятия по развитию экстрасенсорных способностей и изучению скрытых возможностей психики. Успешно проходят сеансы медитации.",
-	"Удачные дни в мае" : "5, 17, 18, 19, 24, 25",
-	"Неудачные дни в мае" : "7, 8, 9, 12, 16, 27"
-},
-"Телец":{"Даты":"21 апреля - 20 мая", 
-		"Планета":"Венера", 
-		"Стихия":"Земля", 								"Характеристика": "Самый трудолюбивый и терпеливый знак, идет медленно, но верно, зная, что только так можно чего-то добиться. Исходя из их упрямства, можно уверенно сказать, что советов они не слушают, а если и слушают, то в голове составляют свой собственный план. Тельцы безумно ревнивы, порой их ревность может доходить до крайней точки, она только раздувает пламя любви в душе консервативного Тельца.",
-		"Предсказание на май":"Тельцы в начале и середине мая могут почувствовать, будто внешние обстоятельства или неизвестные люди пытаются ограничить их активность. Это могут быть данные ранее кому-то обязательства, которые в нынешних условиях станут вам обременительными. Не пытайтесь искать обходные пути, добиваясь поставленных целей против существующих законов и правил. В этом случае у вас могут быть неприятности. Держитесь подальше от представителей власти. В случае большой просрочки по выплате долгов ваши счета могут заблокировать. Не исключены попытки тайных недоброжелателей нанести ущерб вашей репутации. Середина месяца может быть связана с разногласиями с партнером. Если вам предстоит вместе с партнером выполнять важное дело, в котором вы лично заинтересованы, то старайтесь не высказывать в адрес партнера критических замечаний и не задевайте его самолюбие. Сотрудничество с партнером возможно только при взаимном уважении. В конце месяца вас могут пригласить в гости на торжественное мероприятие типа свадьбы или юбилея. Удачно проходят дружеские вечеринки. Ждите приятных сюрпризов и исполнения заветных желаний.",
-	"Удачные дни в мае" : "4, 6, 18, 19, 20, 25",
-	"Неудачные дни в мае" : "8, 9, 12, 16, 26, 27"
+	"Aries": {
+		"Date1": "21.03",
+		"Date2": "20.04",
+		"Planet": "Mars",
+		"Element": "Fire",
+		"Characteristics": " These people are cheerful, provocative, sometimes irritable and extremely stubborn. If they are planning something to do and their plans are destroyed, then their anger will be felt by anyone who starts to soothe them or blame it. Therefore, the desire to do as they wish, they can sometimes turn into despotism. Aries are dodgy and intelligent, which is why they devote most of their time to the cause of their whole life.",
+		"Prediction": "In the beginning and middle of May Aries can face serious opposition to their initiatives. Despite your desire to realize your plans, you can fail. The fact that you can resist influential people, endowed with power with which you will not be easy to compete. This is especially true for career and professional activities. Another problem of these days may be associated with unnecessarily high financial costs. Perhaps, the circumstances will develop in such a way that you will be forced to pay bills urgently. As a result, the financial balance of your budget may be violated. At the end of May, in the 20th days, there will be favorable days for spiritual practices. It is good to attend closed groups of seminars, where classes are held on developing extrasensory abilities and studying the hidden potentialities of the psyche. Successfully undergo meditation sessions.",
+		"Success": "5, 17, 18, 19, 24, 25",
+		"Unsuccess": "7, 8, 9, 12, 16, 27"
 	},
-"Близнецы":{"Даты":"21 мая – 21 июня", 
-		"Планета":"Меркурий", 
-		"Стихия":"Воздух", 								"Характеристика": "Самый непостоянный знак Зодиака, однако ум их изворотлив, поэтому Близнецы умны и талантливы. Они кокетливы, флирт для них, как глоток воды в жару, но домашняя, покойная жизнь, увы, подходит не всем Близнецам. Эти натуры не принимают консерватизма и хотят разнообразия.",
-		"Предсказание на май":"В начале и середине мая у Близнецов может сложиться крайне нестабильная обстановка. Могут происходить форс-мажорные ситуации, когда вам придется срочно корректировать свои планы и заниматься совсем не теми вопросами, которые планировались изначально. Возрастает вероятность аварий и поломок бытовой техники. Не исключены травмы. От участия в спортивных соревнованиях и интенсивных физических нагрузок лучше воздержаться. Осторожнее обращайтесь с огнем и электричеством. Это не лучшее время для участия в импровизированных дружеских вечеринках. Возможны ссоры с друзьями и единомышленниками. Старайтесь вести спокойный и предсказуемый образ жизни, не делайте ничего принципиального нового. В середине месяца у вас могут быть осложнения с содержанием домашних животных. Не пускайте кошку на балкон – есть риск того, что она упадет. При прогулке собаки следите, чтобы она не убежала. В конце мая улучшается ваше самочувствие, повышается энергетика организма. Хорошо проходить медицинские обследования и начинать курс лечебно-профилактических процедур. Также это благоприятное время для карьерного продвижения."
-	"Удачные дни в мае" : "5, 17, 18, 19, 24, 25",
-	"Неудачные дни в мае" : "7, 12, 13, 14, 23, 26"
+	"Taurus": {
+		"Date1": "21.04",
+		"Date2": "20.05",
+		"Planet": "Venus",
+		"Element": "Soil",
+		"Характеристика": "The most industrious and patient sign, goes slowly, but it is true, knowing that only in this way something can be achieved. Proceeding from their stubbornness, one can confidently say that they do not listen to advice, and if they listen, they make up their own plan in their heads. Taurus madly jealous, sometimes their jealousy can reach the extreme point, it only inflates the flame of love in the soul of the conservative Taurus.",
+		"Prediction": "Taurus in the beginning and middle of May can feel, as if external circumstances or unknown people try to limit their activity. It may be data previously committed to someone who, in the current circumstances, will become burdensome to you. Do not try to look for workarounds, achieving the set goals against existing laws and regulations. In this case, you may have trouble. Stay away from the authorities. In the event of a large delay in the payment of debts, your accounts can be blocked. Do not exclude attempts of secret detractors to damage your reputation. The middle of the month can be associated with disagreements with a partner. If you have to carry out an important business together with a partner, in which you are personally interested, then try not to criticize your partner and touch his self-esteem. Cooperation with a partner is possible only with mutual respect. At the end of the month you can be invited to a celebration such as a wedding or an anniversary. Successful parties are friendly. Wait for pleasant surprises and fulfillment of cherished desires.",
+		"Success": "4, 6, 18, 19, 20, 25",
+		"Unsuccess": "8, 9, 12, 16, 26, 27"
 	},
-"Рак":{"Даты":"22 июня – 22 июля", 
-		"Планета":"Луна", 
-		"Стихия":"Вода", 								"Характеристика": "Самый преданный знак, семья для них – самое дорогое, что они имеют в жизни. Они очень обидчивы, хотя могут этого не показать, дабы не обидеть партнера, это порождает их способность к необдуманной щедрости. Обладают развитой интуицией, что может их сильно напугать.",
-		"Предсказание на май":"В начале и середине мая Раки могут быть недостаточно активными и инициативными. В этом случае вам будет сложно противостоять негативным внешним влияниям. Поэтому, если нет возможности повлиять на обстоятельства, то лучшая тактика на эти дни – научиться подстраиваться, адаптироваться к внешним обстоятельствам. Это позволит вам свести к минимуму возможные неприятности. Особенно проблемно могут сложиться отношения с партнером по браку и по бизнесу. Вы можете осознать, что у вас с партнером разные стратегические цели и на этой почве могут усилиться разногласия. Середина мая характерна активизацией романтических и дружеских отношений. Вместе с тем может обозначиться проблема, когда вам придется в какой-то момент выбирать, с кем проводить время: с друзьями или с любимым человеком. В конце месяца прекрасное время для любви и творчества. Возможно, вы увлечетесь каким-то интересным делом. Хорошо проходят поездки к морю, высока вероятность курортного романа."
-	"Удачные дни в мае" : "5, 6, 11, 18, 19, 31",
-	"Неудачные дни в мае" : "7, 8, 12, 14, 16, 26"
+	"Gemini": {
+		"Date1": "21.05",
+		"Date2": "21.06",
+		"Planet": "Mercury",
+		"Element": "Air",
+		"Characteristics": "The most inconsistent sign of the Zodiac, but their mind is quirky, so the Twins are smart and talented. They are flirtatious, flirting for them, like a sip of water in the heat, but the home, deceased life, alas, does not suit all Gemini. These natures do not accept conservatism and want diversity.",
+		"Prediction": "In the beginning and middle of May, Gemini may have an extremely unstable situation. There can be force majeure situations when you have to urgently adjust your plans and deal with completely different things that were originally planned. The probability of accidents and breakdowns of household appliances is increasing. Do not exclude injuries. It is better to refrain from participation in sports competitions and intensive physical activities. Be careful with fire and electricity. This is not the best time to participate in improvised friendly parties. You can quarrel with friends and like-minded people. Try to lead a calm and predictable lifestyle, do not do anything fundamentally new. In the middle of the month you may have complications with the maintenance of pets. Do not let the cat on the balcony - there is a risk that it will fall. When walking a dog, make sure that it does not run away. At the end of May your health improves, the energy of the body rises. It is good to undergo medical examinations and start a course of medical and preventive procedures. It is also a good time for career advancement.",
+		"Success": "5, 17, 18, 19, 24, 25",
+		"Unsuccess": "7, 12, 13, 14, 23, 26"
 	},
-"Лев":{"Даты":"23 июля – 23 августа", 
-		"Планета":"Солнце", 
-		"Стихия":"Огонь", 								"Характеристика": "Имеют большие способности к лидерству, именно поэтому в их милой голове, быть может, создается план по захвату мира, а другие об этом знать не знают. Львы будут несчастны, если знают, что их не любят и не уважают, но долго обиду эти люди никогда не держат. Это самый благородный знак, поэтому их побуждения всегда лишь ради благих целей.",
-		"Предсказание на май":"Начало и середина мая для Львов могут сложиться неблагоприятно для поддержания здоровья. Возрастает вероятность психосоматических расстройств из-за волнений и стрессов. Стремитесь к тому, чтобы сделать свой повседневный образ жизни спокойным и предсказуемым. Для этого следует вести размеренный образ жизни и не предпринимать ничего принципиального нового. Состояние здоровья может быть нарушено из-за нарушения режима дни. Старайтесь придерживаться стабильного режима, просыпаться и ложиться спать в одно и то же время. В середине мая у вас в семье может возникнуть много забот и хлопот, и может потребоваться пораньше отпрашиваться с работы. Однако начальство может быть недовольно. Это не лучшее время для карьеры. В конце месяца у вас в семье наступает идеальное время полной гармонии и спокойствия. Старайтесь больше времени проводить у себя дома – благодаря гармоничной психологической атмосфере вы будете хорошо себя чувствовать в семье. Также это хорошее время для работы на садово-огородном участке."
-	"Удачные дни в мае" : "5, 6, 11, 12, 23, 24",
-	"Неудачные дни в мае" : "8, 9, 14, 16, 26, 27"
+	"Cancer": {
+		"Date1": "22.06",
+		"Date2":"22.07",
+		"Planet": "Moon",
+		"Element": "Water",
+		"Characteristics": "The most devoted sign, the family for them is the most precious thing they have in life. They are very touchy, although they can not show this, so as not to offend the partner, this generates their ability to rash generosity. They have developed intuition, which can greatly frighten them.",
+		"Prediction": "In the beginning and in the middle of May Cancers can be insufficiently active and initiative. In this case, it will be difficult for you to resist negative external influences. Therefore, if there is no possibility to influence the circumstances, then the best tactic for these days is to learn how to adapt, adapt to external circumstances. This will allow you to minimize possible troubles. Particularly problematic may be the relationship with a partner in marriage and business. You can realize that you and your partner have different strategic goals, and on this ground, differences can intensify. The middle of May is characterized by the activation of romantic and friendly relations. However, there may be a problem when you have to choose at some point with whom to spend time: with friends or with your loved one. At the end of the month, a great time for love and creativity. Perhaps you will be carried away by some interesting activity. Good trips to the sea, the probability of a holiday romance is high.",
+		"Success": "5, 6, 11, 18, 19, 31",
+		"Unsuccess": "7, 8, 12, 14, 16, 26"
 	},
+	"Leo": {
+		"Date1": "23.07",
+		"Date2": "23.08",
+		"Planet": "Sun",
+		"Element": "Fire",
+		"Characteristics": "They have great leadership abilities, which is why in their sweet head, perhaps, a plan is being created to seize the world, and others do not know about it. Lions will be unhappy if they know that they are not loved and respected, but these people never take offense for a long time. This is the noblest sign, therefore their motivations are always only for the sake of good purposes.",
+		"Prediction": "The beginning and middle of May for Lviv can be unfavorable for maintaining health. The likelihood of psychosomatic disorders increases due to anxiety and stress. Strive to make your daily life calm and predictable. To do this, you should lead a measured way of life and do nothing fundamentally new. The state of health can be violated because of violation of the regime days. Try to stick to a stable regime, wake up and go to bed at the same time. In the middle of May, you may have a lot of worries and hassles in your family, and you may need to ask to get out of work early. However, the authorities may be dissatisfied. This is not the best time for a career. At the end of the month, your family has an ideal time of complete harmony and tranquility. Try to spend more time at home - thanks to a harmonious psychological atmosphere, you will feel good in the family. It's also a good time to work on the garden plot.",
+		"Success": "5, 6, 11, 12, 23, 24",
+		"Unsuccess": "8, 9, 14, 16, 26, 27"
+	},
+	"Virgo": {
+		"Date1": "24.08",
+		"Date2": "23.09",
+		"Planet": "Mercury",
+		"Element": "Soil",
+		"Characteristics": "They think that if you do something, it's better not to do it at all. They have an analytical mindset, which is why when they hear from a friend that they have a problem, they will make up a whole chain of things coming out of this situation. Virgo aspire to the ideal, for this reason a couple choose only that one.",
+		"Prediction": "Lovers of Virgo in the beginning and middle of May can survive a lot of unrest. Relations with a loved one can not endure better times. You may feel that you are becoming colder, that you lack love and care, and that a loved one does not give you tenderness and affection. To some extent this may correspond to reality, however, the stars do not advise you to unnecessarily dramatize the situation. Love has its own periods of ups and downs and one must believe that there will be an upsurge in the recession. It is also a difficult period for those who are exposed to gambling. The fact is that these days it will be difficult for you to keep yourself from gambling, which can have a very negative impact on the state of your budget. In the middle of the month, things may become more complicated with students' studies. There is a risk of delaying the training program. It is better to refrain from traveling these days. At the end of May there is a favorable time for contacts and partnership. You can completely remove all the contradictions in the relationship with the partner due to the fact that you will be able to calm and benevolent constructive dialogue.",
+		"Success": "5, 17, 18, 19, 24, 25",
+		"Unsuccess": "7, 12, 13, 14, 23, 26"
+	},
+	"Libra": {
+		"Date1": "24.09",
+		"Date2" : "23.10",
+		"Planet": "Venus",
+		"Element": "Air",
+		"Characteristics": "These people are close to art and can see beauty, this skill and controls the life of Libra. People love them, and all because they can arrange for themselves, with each acting the way the latter wants. A large proportion of Libra have a business vein",
+		"Prediction": "Libra in the beginning and middle of May, may have to flexibly maneuver in family and partnership relations. The fact is that in your family conflict may arise. This is especially true for those partners who live together with relatives in one living space. In this case, a complex generation conflict is not ruled out. The stars advise you to occupy a peacekeeping position, although it will not always be possible to show your diplomatic talents. It is extremely undesirable these days to invite guests to your home from among relatives - this can aggravate the situation. In the middle of the month is not the best time to apply for a loan. At the end of the month your financial affairs will go uphill. Increase income, improve overall health. A good time to buy a pet.",
+		"Success": "4, 6, 18, 19, 20, 25",
+		"Unsuccess": "8, 9, 12, 16, 26, 27"
+	},
+	"Scorpio": {
+		"Date1": "24.10",
+		"Date2": "22.11",
+		"Planet": "Mars",
+		"Element": "Water",
+		"Characteristics": "Cruel and hot nature, so they are called the strongest signs. The desire for success is laid in their blood, but they achieve it in some mysterious ways, so the surrounding people do not quite understand how he did it. Scorpions were born to be a  big bump",
 
-"Дева":{"Даты":"24 августа – 23 сентября", 
-		"Планета":"Меркурий", 
-		"Стихия":"Земля", 								"Характеристика": "Считают, что если делать кое-как, то лучше не делать вообще. Обладают аналитическим складом ума, именно поэтому, услышав от друга, что у него какая-то проблема, составят целую цепочку исходящих из этой ситуации вещей. Девы стремятся к идеалу, по этой причине в пару себе выбирают только того самого.",
-		"Предсказание на май":"Влюбленные Девы в начале и середине мая могут пережить много волнений. Отношения с любимым человеком могут переживать не лучшие времена. Вам может казаться, что к вам стали холоднее относиться, что вам не хватает любви и заботы и что любимый человек не дает вам нежности и ласки. В какой-то мере это может соответствовать действительности, однако звезды не советуют вам излишне драматизировать ситуацию. У любви бывают свои периоды подъемов и спадов и нужно верить, что за спадом будет подъем. Также это непростой период для тех, кто подвержен азартным играм. Дело в том, что в эти дни вам будет трудно удержать себя от азартных увлечений, что может крайне негативно отразиться на состоянии вашего бюджета. В середине месяца могут осложниться дела с учебой у студентов. Есть риск допустить отставание от учебной программы. От путешествий в эти дни лучше воздержаться. В конце мая наступает благоприятное время для контактов и партнерского общения. Вы сможете полностью снять все противоречия в отношениях с партнером благодаря тому, что окажетесь способны к спокойному и доброжелательному конструктивному диалогу."
-	"Удачные дни в мае" : "5, 17, 18, 19, 24, 25",
-	"Неудачные дни в мае" : "7, 12, 13, 14, 23, 26"
+		"Prediction": "The stars advise the Scorpions in the beginning and middle of May to pay maximum attention to their health. During this period, there may be an energy decline in the body, which can provoke the development of acute viral infections with an increase in temperature. Especially vulnerable are the lungs and the respiratory tract. It is very important to dress in the weather, do not get under drafts and under cold pouring rain. Another problem topic can be the relationship with people from the usual circle of communication. There may be quarrels with neighbors, acquaintances or relatives. The less you communicate with someone, the less likely it is for conflict. In the middle of May, try to be softer and more tolerant with a partner in marriage. At the end of May, there is a great time for your personal development and creativity. You can take something seriously seriously. However, the most likely your hobby may be falling in love. Romantic relationships can survive the period of the highest flowering.",
+		"Success": "5, 17, 18, 19, 24, 25",
+		"Unsuccess": "7, 8, 9, 12, 16, 27"
 	},
-"Весы":{"Даты":"24 сентября – 23 октября", 
-		"Планета":"Венера", 
-		"Стихия":"Воздух", 								"Характеристика": "Эти люди близки к искусству и умеют видеть красоту, это умение и управляет жизнью Весов. Люди их любят, а все потому, что могут их к себе расположить, с каждым действуя так, как хочет тот. Большая доля Весов имеют деловую жилку",
-		"Предсказание на май":"Весам в начале и середине мая, возможно, придется гибко маневрировать в семейных и партнерских отношениях. Дело в том, что в вашей семье может назреть конфликтная ситуация. Это особенно актуально для тех партнеров, которые проживают вместе с родственниками на одной жилплощади. В этом случае не исключен сложный конфликт поколений. Звезды советуют вам занимать миротворческую позицию, хотя проявить свои дипломатические таланты не всегда будет возможно. Крайне нежелательно в эти дни приглашать гостей в свой дом из числа родственников – это может накалить обстановку. В середине месяца не лучшее время для оформления кредита. В конце месяца ваши финансовые дела пойдут в гору. Вырастут доходы, улучшится общее самочувствие. Хорошее время для покупки домашнего животного. Наиболее удачные дни в мае: 4, 6, 18, 19, 20, 25. Напряженные дни: 8, 9, 12, 16, 26, 27"
-	"Удачные дни в мае" : "4, 6, 18, 19, 20, 25",
-	"Неудачные дни в мае" : "8, 9, 12, 16, 26, 27"
+	"Sagittarius": {
+		"Date1": "23.11",
+		"Date2": "21.12",
+		"Planet": "Jupyter",
+		"Element": "Fire",
+		"Characteristics": "Their directness sometimes becomes too harsh, but people like it for it. They hate being in four walls, so they go to distant countries or to the world of books.",
+		"Prediction": "Typical Streltsov in the beginning and middle of May there may be situations that lead to a sharp increase in financial expenses. For the most part, these can be unproductive expenses, related both to losses, losses, and not to the acquisition of material values. The probability of spending on rest, love and entertainment increases. If you are in love, then an important item of expenditure can be buying gifts, surprises and paying for visits to restaurants, bars, concerts. It can also be the purchase of goods for children. In this regard, your main task may be to preserve the material resources that you had before. In mid-May, your well-being may worsen - a general decline in energy may not be ruled out. At the end of the month, it's time for harmony in the family and for your inner development. It will be beneficial to stay in solitude, accompanied by spiritual practices, meditation. A good time for additional work, remote work, freelancing.",
+		"Success": "1, 2, 11, 23, 24, 25",
+		"Unsuccess": ": 7, 8, 9, 13, 23, 26"
 	},
-"Скорпион":{"Даты":"24 октября – 22 ноября", 
-		"Планета":"Марс", 
-		"Стихия":"Вода", 								"Характеристика": "Жестокая и жаркая натура, поэтому их называют самыми сильными знаками. Стремление к успеху заложено у них в крови, но добиваются они его какими-то мистическими способами, поэтому окружающим порой совсем непонятно, как он это сделал. Скорпионы рождены быть «большой шишкой».",
-		"Предсказание на май":"Звезды советуют Скорпионам в начале и середине мая максимум внимания уделить своему здоровью. В этот период может произойти энергетический спад в организме, что может спровоцировать развитие острых вирусных инфекций с повышением температуры. Особенно уязвимыми могут оказаться легкие и дыхательные пути. Очень важно одеваться по погоде, не попадать под сквозняки и под холодный проливной дождь. Другой проблемной темой могут стать взаимоотношения с людьми из привычного круга общения. Могут произойти ссоры с соседями, знакомыми или родственниками. Чем меньше вы будете с кем-то общаться, тем меньше вероятности для конфликтов. В середине мая старайтесь быть мягче и терпимее с партнером по браку. В конце мая наступает прекрасное время для вашего личностного развития и творчества. Вы можете чем-то всерьез увлечься. Впрочем, наиболее вероятное ваше увлечение может оказаться влюбленностью. Романтические отношения могут переживать период наивысшего расцвета."
-	"Удачные дни в мае" : "5, 17, 18, 19, 24, 25",
-	"Неудачные дни в мае" : "7, 8, 9, 12, 16, 27"
+	"Capricorn": {
+		"Date1": "22.12",
+		"Date2": "20.01",
+		"Planet": "Saturn",
+		"Element": "Soil",
+		"Characteristics": "People convict him of being dry, but he just can not express his deep feelings, so he does it through actions. The work is extremely concentrated, and therefore successful. The simplest sign of the Zodiac, requiring understanding and support.",
+		"Prediction": "Capricorns in the beginning and middle of May can be directed to the implementation of their initiatives. Your active position can be aimed at strengthening the influence and control over your family, close relatives. However, you will tend not to reckon with other opinions, doing only what you want. And this can lead to a clash of interests and opinions. Stars advise you to moderate activity and not to hurry to implement your personal plans in life, if you have to touch on other people's interests. Otherwise, you can get bogged down in conflicts instead of creative activity. In the middle of the month, someone or something can interfere with your creativity. The desire to gain personal freedom can run into obligations to friends. At the end of May, a good time to expand the circle of communication, travel, study. You can successfully solve your problems by attracting other people.",
+		"Success": "1, 2, 3, 17, 18, 19",
+		"Unsuccess": "6, 12, 13, 14, 26, 27"
 	},
-"Стрелец":{"Даты":"23 ноября – 21 декабря", 
-		"Планета":"Юпитер", 
-		"Стихия":"Огонь", 								"Характеристика": "Их прямота порой приобретает слишком жёсткий характер, но люди их за это любят. Ненавидят находиться в четырех стенах, поэтому отправляются в дальние страны или в мир книги.",
-		"Предсказание на май":"У типичных Стрельцов в начале и середине мая могут возникнуть ситуации, побуждающие к резкому увеличению финансовых расходов. По большей части это могут быть непродуктивные расходы, связанные и убытками, потерями, а отнюдь не приобретением материальных ценностей. Возрастает вероятность расходов на отдых, любовь и развлечения. Если вы влюблены, то существенной статьей расходов может стать покупка подарков, сюрпризов и оплата посещения ресторанов, баров, концертов. Также это могут быть покупки товаров для детей. В связи с этим вашей основной задачей может стать сохранение тех материальных ресурсов, которыми вы располагали до того. В середине мая может ухудшиться ваше самочувствие – не исключен общий спад энергетики. В конце месяца наступает пора гармонии в семье и вашего внутреннего развития. Благотворным будет пребывание в уединении, сопровождаемое духовными практиками, медитацией. Удачное время для дополнительной подработки, удаленной работы, фриланса."
-	"Удачные дни в мае" : "1, 2, 11, 23, 24, 25",
-	"Неудачные дни в мае" : ": 7, 8, 9, 13, 23, 26"
+	"Aquarius": {
+		"Date1": "21.01",
+		"Date2": "20.02",
+		"Planet": "Saturn",
+		"Element": "Air",
+		"Characteristics": "They are brilliant. They know how to make it so that everyone likes, sometimes in harm to themselves, but their incompetence among people is embodied in science and creativity.",
+		"Prediction": "Aquarius in the beginning and middle of May may have a period associated with instability in contacts. It is not recommended to rely on the fulfillment of the promises given to you. The situation can change rapidly and if you do not get something from a person right away, then after a while this person may get lost from the field of your vision. Extremely reckless can become an acquaintance with fellow travelers while traveling. Confidential conversation with such a casual acquaintance can turn into trouble for you. Do not trust anyone with secrets from your personal life. In the middle of the month, there can be a lot of work in the family and in the household. At the end of May, there is a beautiful period for improving social and professional status. You can be offered a prestigious position or financially reward you. Dating with influential people will promote career growth.",
+		"Success": "1, 2, 3, 17, 18, 19",
+		"Unsuccess": "6, 12, 13, 14, 26, 27"
 	},
-"Скорпион":{"Даты":"24 октября – 22 ноября", 
-		"Планета":"Марс", 
-		"Стихия":"Вода", 								"Характеристика": "Жестокая и жаркая натура, поэтому их называют самыми сильными знаками. Стремление к успеху заложено у них в крови, но добиваются они его какими-то мистическими способами, поэтому окружающим порой совсем непонятно, как он это сделал. Скорпионы рождены быть «большой шишкой».",
-		"Предсказание на май":"Звезды советуют Скорпионам в начале и середине мая максимум внимания уделить своему здоровью. В этот период может произойти энергетический спад в организме, что может спровоцировать развитие острых вирусных инфекций с повышением температуры. Особенно уязвимыми могут оказаться легкие и дыхательные пути. Очень важно одеваться по погоде, не попадать под сквозняки и под холодный проливной дождь. Другой проблемной темой могут стать взаимоотношения с людьми из привычного круга общения. Могут произойти ссоры с соседями, знакомыми или родственниками. Чем меньше вы будете с кем-то общаться, тем меньше вероятности для конфликтов. В середине мая старайтесь быть мягче и терпимее с партнером по браку. В конце мая наступает прекрасное время для вашего личностного развития и творчества. Вы можете чем-то всерьез увлечься. Впрочем, наиболее вероятное ваше увлечение может оказаться влюбленностью. Романтические отношения могут переживать период наивысшего расцвета."
-	"Удачные дни в мае" : "5, 17, 18, 19, 24, 25",
-	"Неудачные дни в мае" : "7, 8, 9, 12, 16, 27"
-	},
-"Козерог":{"Даты":"22 декабря – 20 января", 
-		"Планета":"Земля", 
-		"Стихия":"Сатурн", 								"Характеристика": "Люди обличают его в сухости, однако он лишь не может выразить свои глубокие чувства, поэтому делает это с помощью поступков. В работе крайне сосредоточен, а поэтому успешен. Самый простой знак Зодиака, требующий понимания и поддержки.",
-		"Предсказание на май":"Козероги в начале и середине мая могут быть устремлены к реализации своих инициатив. Ваша активная позиция может быть направлена на усиление влияния и контроля над своей семьей, близкими родственниками. Однако вы будете склонны не считаться с иными мнениями, делая только то, что хочется вам. И это может привести к столкновению интересов и мнений. Звезды советуют вам умерить активность и не торопиться воплощать свои личные планы в жизнь, если при этом приходится затрагивать чужие интересы. В противном случае вы вместо созидательной деятельности можете увязнуть в конфликтах. В середине месяца кто-то или что-то может помешать вам в творчестве. Стремление к обретению личной свободы может натолкнуться на обязательства перед друзьями. В конце мая хорошее время для расширения круга общения, поездок, учебы. Вы сможете успешно решать свои вопросы путем привлечения других людей."
-	"Удачные дни в мае" : "1, 2, 3, 17, 18, 19",
-	"Неудачные дни в мае" : "6, 12, 13, 14, 26, 27"
-	},
-"Водолей":{"Даты":"21 января – 20 февраля", 
-		"Планета":"Воздух", 
-		"Стихия":"Сатурн", 								"Характеристика": "Гениальны. Знают, как сделать так, чтобы всем нравиться, порой в урон себе, но свою недостаточность среди людей воплощают в науке и творчестве.",
-		"Предсказание на май":"У Водолеев в начале и середине мая может быть период, связанный с нестабильностью в контактах. Не рекомендуется уповать на исполнение данных вам обещаний. Ситуация может стремительно меняться и если вы сразу что-то не получите от человека, то спустя какое-то время этот человек может потеряться из поля вашего зрения. Крайне опрометчивым может стать знакомство с попутчиками во время поездок. Доверительная беседа с таким случайным знакомым может обернуться для вас неприятностями. Никому не доверяйте секреты из своей личной жизни. В середине месяца в семье и в домашнем хозяйстве может быть много работы. В конце мая наступает прекрасный период для повышения социального и профессионального статуса. Вам могут предложить престижную должность или материально поощрить вас. Знакомства с влиятельными людьми будут способствовать карьерному росту."
-	"Удачные дни в мае" : "1, 2, 3, 17, 18, 19",
-	"Неудачные дни в мае" : "6, 12, 13, 14, 26, 27"
-	},
-"Рыбы":{"Даты":"19 февраля - 20 марта", 
-		"Планета":"Вода", 
-		"Стихия":"Юпитер", 								"Характеристика": "Другим людям могут показаться двуличными, но это издержки их двойственности: могут быть великими деятелями и мечтательными романтиками. Всю жизнь находятся в поисках красоты и гармонии, но не всегда находят, так как не знают, что им нужно. Не любят перемен, старое и проверенное для них роднее.",
-		"Предсказание на май":"У типичных Рыб в начале и середине мая возрастает вероятность убытков и материальных потерь. Вы можете столкнуться с поломками бытовой техники или автомобиля, что потребует срочных финансовых вливаний либо на ремонт, либо на покупку новой техники. Другая потенциально проблемная тема может быть связана с вашим стремлением к праздному времяпрепровождению, расходованию средства на развлечения и увеселительные мероприятия с друзьями и подругами. Так или иначе, но в вашем бюджете может образоваться пробоина, которую предстоит залатать впоследствии. В конце месяца, в последней декаде, наступает благоприятное время для личностного развития и повышения самооценки. Возможно, будут какие-то события, которые могут послужить основой для повышения самооценки и укрепления вашей репутации. Например, вы можете занять призовое место в творческом конкурсе."
-	"Удачные дни в мае" : "1, 2, 11, 23, 24, 25",
-	"Неудачные дни в мае" : "7, 8, 9, 13, 23, 26"
+	"Pisces": {
+		"Date1": "19.02",
+		"Date2":"20.03",
+		"Planet": "Jupyter",
+		"Element": "Water",
+		"Characteristics": "Other people may seem duplicitous, but these are the costs of their duality: they can be great figures and dreamy romantics. All their lives are in search of beauty and harmony, but they are not always found, because they do not know what they need. They do not like changes, the old and proven for them more closely.",
+		"Prediction": "At typical Pisces in the beginning and middle of May the probability of losses and material losses increases. You may encounter a breakdown of household appliances or a car, which will require urgent financial injections, either for repairs, or for the purchase of new equipment. Another potentially problematic topic may be related to your desire for an idle pastime, spending money on entertainment and entertainment with friends and girlfriends. Anyway, but in your budget there can be a hole, which is to be patched afterwards. At the end of the month, in the last decade, there is a favorable time for personal development and increased self-esteem. Perhaps there will be some events that can serve as a basis for increasing self-esteem and strengthening your reputation. For example, you can take a prize in a creative contest.",
+		"Success": "1, 2, 11, 23, 24, 25",
+		"Unsuccess": "7, 8, 9, 13, 23, 26"
 	}
 }
